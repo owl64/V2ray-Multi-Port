@@ -13,6 +13,8 @@ Add Domain
 ```
 mkdir -p /etc/xray
 cat >/etc/xray/domain <<EOF
-mantapxsl.my.id
+sg01.sshvip.my.id
 EOF
 ```
+
+Lakukan Pointing Ke cloudflare, mengikuti Domain di atas
